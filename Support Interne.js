@@ -2,8 +2,8 @@
 let name;
 function push(msg, cb) {
 
-//replace with your bot token
-const token = "xxxxxx"
+//obs_notify bot token
+const token = "YWUzZDU5YTMtYTk3Yy00YjIyLWIwYzQtZjJkODNjY2JmZTg5YjZlOTgzMGMtNzc5_PF84_55eb52da-641e-4a46-8b01-a38b95283c2a"
 //replace with a space your bot is part of
 const roomId = "xxxxxx"
 
